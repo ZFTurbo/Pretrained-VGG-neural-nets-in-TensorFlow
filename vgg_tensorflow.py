@@ -1,5 +1,5 @@
 """
-Author: ZFTurbo
+Author: ZFTurbo (IPPM RAS)
 Set of VGG models converted for TF from:
 https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vgg.py
 """
