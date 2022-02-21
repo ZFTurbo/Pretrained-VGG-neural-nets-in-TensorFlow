@@ -12,6 +12,7 @@ I made converter from Pytorch to VGG which allows to use all family of VGG model
 
 * Converted only feature extraction part (no classification part available)
 * Models tested against PyTorch version to give the same result (max diff < 1e-05)
+* Code for conversion of model weights available here: [convert_model_weights.py](convert_model_weights.py)
 
 ## Usage
 
