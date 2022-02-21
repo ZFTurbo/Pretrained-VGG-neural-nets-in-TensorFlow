@@ -1,4 +1,4 @@
-# Pretrained-VGG-neural-nets-in-TensorFlow
+# Pretrained VGG neural nets in TensorFlow
 Set of VGG neural net models for TensorFlow. Weights converted from [timm](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vgg.py) module (Pytorch).
 
 ## Introduction
